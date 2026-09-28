@@ -2,6 +2,8 @@
 
 This repository contains the exact pin mapping, hardware wiring tables, microSD card layout, and firmware flashing steps for building a DIY portable retro gaming console using the **ESP32-S3 n16r8** dev board, **ILI9341 Display**, **MAX98357A I2S Audio Amplifier**, and **Retro-Go** firmware.
 
+📥 **Download Firmware & Flasher:** [Download from Google Drive](https://drive.google.com/YOUR_LINK_HERE)
+
 ##
 
 ## **📌 ESP32-S3 Pinout & Wiring Table**
