@@ -4,6 +4,8 @@ This repository contains the exact pin mapping, hardware wiring tables, microSD 
 
 📥 **Download Firmware & Flasher:** [Download from Google Drive](https://drive.google.com/file/d/1HBvIWh_ksgA0kvTYS_lbayI8zbT-Zi2u/view?usp=sharing)
 
+📺 Watch the Full Project Video on YouTube: https://youtu.be/DYWG1luQNXs
+
 ##
 
 ## **📌 ESP32-S3 Pinout & Wiring Table**
